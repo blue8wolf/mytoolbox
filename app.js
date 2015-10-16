@@ -56,5 +56,4 @@ app.use(function(err, req, res, next) {
   });
 });
 
-//just fo test branch
 module.exports = app;
